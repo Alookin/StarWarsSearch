@@ -7,6 +7,7 @@ Moteur de recherche utilisant l'API https://swapi.dev.
 1. Clonez le projet sur votre machine.
 2. Naviguez jusqu'au dossier racine du projet.
 3. Installez les dépendances en exécutant la commande `npm install`.
+4. Coucou
 
 ## Utilisation
 
